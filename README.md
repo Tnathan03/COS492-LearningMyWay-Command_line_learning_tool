@@ -1,4 +1,3 @@
-This is a README file.
 
 # COS492 - LearningMyWAy
 
@@ -17,16 +16,27 @@ This is a README file.
 
 
 
-### Introduction
+## Introduction
 
 This is my Covenant College Capstone Project for May 2023 BA in Computer Science.
 
-### Features 
+LearningMyWay is a learning tool that creates small practice tests out of questions sets entered by the user. It is meant to be a resource to help students study and learn efficiently on their local devices.
 
-### Screenshots
+## Features 
+- Users enter a question input text file of their own questions formatted like "<question> | <answer>;"
+- Users are tested on the questions they enter which means it can include any subject.
+- Various testing options for users include multiple choice, match the following, true/false, and evaluate.
+- Users can view the questions and answers as flashcards.
+- A record is kept of each test which is stored in a log text file.
+- Users can view the entire log history or the highscores.
 
-### Installation
 
-### Usage
+## Screenshots
 
-### License
+## Installation
+
+## Usage
+
+## License
+#### MIT License
+#### Copyright (c) 2022 Tnathan03
