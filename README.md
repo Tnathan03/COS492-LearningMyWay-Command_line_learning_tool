@@ -32,17 +32,33 @@ LearningMyWay is a learning tool that creates small practice tests out of questi
 
 
 ## Screenshots
+  
+- Starting the program
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(154).png)
+  
+- Menu
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(155).png)
-![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(156).png)
-![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(157).png)
+  
+- Mulitple choice example
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(158).png)
+  
+- Match the following example
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(161).png)
+  
+- Highscores example
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(162).png)
+  
+- Log history example
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(163).png)
+  
+- Flashcards example
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(164).png)
+- True/false example
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(165).png)
+  
+- Evaluate example
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(166).png)
+  
 
 
 ## Installation
