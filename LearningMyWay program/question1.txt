@@ -1,0 +1,12 @@
+1+1|2;
+2*3|6;
+(14*3)/6|7;
+105%7|0;
+500-566|-66;
+303/3-298% 100|3;
+In what small provincial town did Mao's Communist forces end their "Long March" in 1928?| Yan'an  ;
+Chiang Kai-shek was known to have said that "the Japanese are a disease of the skin, but the Communists are a disease of the ________ | heart;
+Which country was not a Soviet ally during the Cold War| Somalia;
+Which country was not a US ally during the Cold War| Angola;
+In what year did North Vietnamese forces launch a major invasion of the south, causing the  government in South Vietnam to surrender| 1975;
+Did Khruschev follow through on his ultimatum to block off West Berlin in 1958, unless the West removed its military forces from the city within 6 months|No;
