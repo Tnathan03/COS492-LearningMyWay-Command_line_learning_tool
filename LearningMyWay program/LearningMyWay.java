@@ -1,4 +1,4 @@
-// Program by Nathan Taylor for Capstone project at Covenant College.
+// Program by Nathan Taylor (May 2023) for Capstone project at Covenant College.
 
 // This program is run primarily on the command line using the command: java LearningMyWay <question text file> <logs text file>
 // This is a program to facilitate learning by creating simple tests for users out of question sets that they create.
