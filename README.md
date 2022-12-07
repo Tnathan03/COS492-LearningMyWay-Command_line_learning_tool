@@ -6,11 +6,9 @@
 
 - [Features](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Features)
 
-- [Screenshots](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool##Screenshots)
-
 - [Installation](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Installation)
 
-- [Usage](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Usage)
+- [Screenshots](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool##Screenshots)
 
 - [License](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#License)
 
@@ -30,6 +28,14 @@ LearningMyWay is a learning tool that creates small practice tests out of questi
 - A record is kept of each test which is stored in a log text file.
 - Users can view the entire log history or the highscores.
 
+
+## Installation
+
+To run this program:
+- Launch the command line and go to the LearningMyWay.java file location.
+- Enter the command “javac LearningMyWay.java” to compile the source code.
+- Enter the command “java LearningMyWay question.txt logs.txt” to run the program with question.txt as your question text file and logs.txt as your log file.
+- Now follow the prompted instructions.
 
 ## Screenshots
   
@@ -69,11 +75,6 @@ LearningMyWay is a learning tool that creates small practice tests out of questi
 
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(166).png)
   
-
-
-## Installation
-
-## Usage
 
 ## License
 #### MIT License
