@@ -32,6 +32,18 @@ LearningMyWay is a learning tool that creates small practice tests out of questi
 
 
 ## Screenshots
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(154).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(155).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(156).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(157).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(158).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(161).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(162).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(163).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(164).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(165).png)
+![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(166).png)
+
 
 ## Installation
 
