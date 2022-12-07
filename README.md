@@ -8,7 +8,11 @@
 
 - [Installation](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Installation)
 
-- [Screenshots](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool##Screenshots)
+- [Technologies](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Technologies)
+
+- [Screenshots](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Screenshots)
+
+- [Credits](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Credits)
 
 - [License](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#License)
 
@@ -36,6 +40,11 @@ To run this program:
 - Enter the command “javac LearningMyWay.java” to compile the source code.
 - Enter the command “java LearningMyWay question.txt logs.txt” to run the program with question.txt as your question text file and logs.txt as your log file.
 - Now follow the prompted instructions.
+
+## Technologies
+
+- Java 17
+- JetBrains IntelliJ IDEA 2022.2
 
 ## Screenshots
   
@@ -75,6 +84,9 @@ To run this program:
 
 ![alt text](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/blob/11fe0bc94ebc1124535ceff28bff8103a07fcd6b/Screenshot/Screenshot%20(166).png)
   
+## Credits
+
+- Shuffling an array using Fisher-Yates Shuffle Algorithm, www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm 
 
 ## License
 #### MIT License
