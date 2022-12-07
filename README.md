@@ -2,17 +2,17 @@
 # COS492 - LearningMyWAy
 
 ## Table of Contents
-- [Introduction](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/edit/main/README.md#Introduction)
+- [Introduction](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#introduction)
 
-- [Features](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/edit/main/README.md#Features)
+- [Features](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Features)
 
-- [Screenshots](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/edit/main/README.md#Screenshots)
+- [Screenshots](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool##Screenshots)
 
-- [Installation](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/edit/main/README.md#Installation)
+- [Installation](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Installation)
 
-- [Usage](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/edit/main/README.md#Usage)
+- [Usage](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#Usage)
 
-- [License](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool/edit/main/README.md#License)
+- [License](https://github.com/Tnathan03/COS492-LearningMyWay-Command_line_learning_tool#License)
 
 
 
